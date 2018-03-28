@@ -1,1 +1,2 @@
 # pamsi1_avl
+Drzewo AVL przechowuje elementy typu int. Zostały zaimplementowane funkcje: tworzenia nowego węzła, wstawiania i usuwania elementu, wyszukania najmniejszego elementu drzewa, wyświetlenia elementu w korzeniu, obliczenia wysokości drzewa, prawą, lewą, podwójną prawą i podwójną lewą rotację oraz przejścia pre-order, in-order, post-order i level-order. Program został przetestowany na piętnastu losowych liczbach całkowitych.
