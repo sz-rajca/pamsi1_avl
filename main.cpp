@@ -46,10 +46,10 @@ void post_order(Node *root) {
     if (root == nullptr) {
         return;
     }
-    std::cout << root->value << ' ';
     post_order(root->left_prt);
     post_order(root->right_prt);
-}
+    std::cout << root->value << ' ';
+    }
 
 void print_root(Node *root) {
     if (root == nullptr) {
